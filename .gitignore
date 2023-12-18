@@ -1,0 +1,6 @@
+# Files
+scratch*.py
+
+# Folders
+__pycache__/
+.venv/
